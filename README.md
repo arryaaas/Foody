@@ -8,6 +8,8 @@ Landing Page For Food Delivery Services - Cloud Computing Bangkit 2022
 
 ![](design/home.png)
 
+![](design/home-reason.png)
+
 ### Food
 
 ![](design/food.png)
